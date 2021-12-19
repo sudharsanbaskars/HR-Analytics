@@ -1,0 +1,72 @@
+2021-12-18		09:26:09		Entered the get_best_model method of the Model_Finder class
+2021-12-18		09:26:09		Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		09:26:09		. Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		09:26:45		AUC for KNN:0.8846993316805432
+2021-12-18		09:26:45		Entered the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		09:26:46		. Exited the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		09:26:46		AUC for LOGISTIC REGRESSION:0.7807633023793876
+2021-12-18		09:26:46		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		09:26:51		. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		09:26:51		AUC for RANDOM FOREST:0.9637937390700859
+2021-12-18		09:26:51		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		09:29:28		XGBoost best params: {'max_depth': 10, 'n_estimators': 130, 'random_state': 0}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		09:29:29		AUC for XGBoost:0.9667394787720601
+2021-12-18		09:29:29		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-12-18		09:29:30		Naive Bayes best params: {'var_smoothing': 1e-06}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-12-18		09:29:30		AUC for NAIVE BIAS:0.7286440183833335
+2021-12-18		09:29:30		Entered the get_best_params_for_support_vector_machine method of the Model_Finder class
+2021-12-18		09:32:43		. Exited the get_best_params_for_support_vector_machine method of the Model_Finder class
+2021-12-18		09:34:40		AUC for SUPPORT VECTOR MACHINE:0.7834914932486912
+2021-12-18		14:09:42		Entered the get_best_model method of the Model_Finder class
+2021-12-18		14:09:42		Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		14:09:42		. Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		14:10:20		AUC for KNN:0.8846993316805432
+2021-12-18		14:10:20		Entered the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		14:10:21		. Exited the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		14:10:21		AUC for LOGISTIC REGRESSION:0.7807633023793876
+2021-12-18		14:10:21		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		14:10:26		. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		14:10:26		AUC for RANDOM FOREST:0.9637578181750409
+2021-12-18		14:10:26		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		14:13:01		XGBoost best params: {'max_depth': 10, 'n_estimators': 130, 'random_state': 0}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		14:13:01		AUC for XGBoost:0.9667394787720601
+2021-12-18		14:13:01		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-12-18		14:13:02		Naive Bayes best params: {'var_smoothing': 1e-06}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-12-18		14:13:02		AUC for NAIVE BIAS:0.7286440183833335
+2021-12-18		14:13:02		Entered the get_best_params_for_support_vector_machine method of the Model_Finder class
+2021-12-18		14:16:11		. Exited the get_best_params_for_support_vector_machine method of the Model_Finder class
+2021-12-18		14:18:04		AUC for SUPPORT VECTOR MACHINE:0.7834914932486912
+2021-12-18		14:49:18		Entered the get_best_model method of the Model_Finder class
+2021-12-18		14:49:18		Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		14:49:18		. Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		14:49:25		Entered the get_best_model method of the Model_Finder class
+2021-12-18		14:49:25		Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		14:49:25		. Entered the get_best_params_for_knn method of the Model_Finder class
+2021-12-18		14:50:14		AUC for KNN:0.8914050731480686
+2021-12-18		14:50:14		Entered the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		14:50:15		. Exited the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		14:50:15		AUC for LOGISTIC REGRESSION:0.7991844187589998
+2021-12-18		14:50:15		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		14:50:18		AUC for KNN:0.8914050731480686
+2021-12-18		14:50:18		Entered the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		14:50:19		. Exited the get_best_params_for_logistic_regression method of the Model_Finder class
+2021-12-18		14:50:19		AUC for LOGISTIC REGRESSION:0.7991844187589998
+2021-12-18		14:50:19		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		14:50:21		. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		14:50:21		AUC for RANDOM FOREST:0.9510403101322831
+2021-12-18		14:50:21		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		14:50:25		. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-18		14:50:26		AUC for RANDOM FOREST:0.9514760010553881
+2021-12-18		14:50:26		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		14:53:41		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\SUDHAR~1\\AppData\\Local\\Temp\\joblib_memmapping_folder_520_3067986296\\520-2788712784336-c2903a98b34d4e10b6e89643707a7f13.pkl'
+2021-12-18		14:53:41		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		14:53:41		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2021-12-18		14:53:41		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2021-12-18		14:54:27		XGBoost best params: {'max_depth': 10, 'n_estimators': 130, 'random_state': 0}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-18		14:54:28		AUC for XGBoost:0.9229506954574038
+2021-12-18		14:54:28		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-12-18		14:54:29		Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-12-18		14:54:29		AUC for NAIVE BIAS:0.6960547309619479
+2021-12-18		14:54:29		Entered the get_best_params_for_support_vector_machine method of the Model_Finder class
+2021-12-18		14:58:25		. Exited the get_best_params_for_support_vector_machine method of the Model_Finder class
+2021-12-18		15:00:44		AUC for SUPPORT VECTOR MACHINE:0.7584305094091713

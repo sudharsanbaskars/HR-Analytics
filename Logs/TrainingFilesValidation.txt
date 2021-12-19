@@ -1,0 +1,58 @@
+2021-12-17		20:32:30		Entered into TrainingFilesValidation for training
+2021-12-17		20:32:30		Started Validating the columns length
+2021-12-17		20:32:30		Starting creating Table in cassandra
+2021-12-17		20:32:30		Inserting the data into table
+2021-12-17		20:32:30		Something went wrong in TrainingFiles Validation.The exception is [WinError 3] The system cannot find the path specified: 'Training_Raw_files_validated/Good_Raw'
+2021-12-17		20:35:16		Entered into TrainingFilesValidation for training
+2021-12-17		20:35:16		Started Validating the columns length
+2021-12-17		20:35:16		Starting creating Table in cassandra
+2021-12-17		20:35:16		Inserting the data into table
+2021-12-17		20:35:16		Something went wrong in TrainingFiles Validation.The exception is [WinError 3] The system cannot find the path specified: 'Training_Raw_files_validated/Good_Raw'
+2021-12-17		20:43:44		Entered into TrainingFilesValidation for training
+2021-12-17		20:43:44		Started Validating the columns length
+2021-12-17		20:43:44		Starting creating Table in cassandra
+2021-12-17		20:43:44		Inserting the data into table
+2021-12-17		20:43:44		Something went wrong in TrainingFiles Validation.The exception is [WinError 3] The system cannot find the path specified: 'Training_ValidatedRawData/Good_Raw'
+2021-12-17		20:44:32		Entered into TrainingFilesValidation for training
+2021-12-17		20:44:32		Started Validating the columns length
+2021-12-17		20:44:32		Starting creating Table in cassandra
+2021-12-17		20:44:32		Inserting the data into table
+2021-12-17		20:44:32		Deleting Existing Good Data Folder
+2021-12-17		20:44:32		Moving bad data folder to Archive
+2021-12-17		20:46:37		Entered into TrainingFilesValidation for training
+2021-12-17		20:46:37		Started Validating the columns length
+2021-12-17		20:46:37		Starting creating Table in cassandra
+2021-12-17		20:46:37		Inserting the data into table
+2021-12-17		20:46:37		Deleting Existing Good Data Folder
+2021-12-17		20:46:37		Moving bad data folder to Archive
+2021-12-17		20:49:13		Entered into TrainingFilesValidation for training
+2021-12-17		20:49:13		Started Validating the columns length
+2021-12-17		20:49:13		Starting creating Table in Sqlite
+2021-12-17		20:49:13		Inserting the data into table
+2021-12-17		20:49:13		Deleting Existing Good Data Folder
+2021-12-17		20:49:13		Moving bad data folder to Archive
+2021-12-17		22:17:51		Entered into TrainingFilesValidation for training
+2021-12-17		22:17:51		Started Validating the columns length
+2021-12-17		22:20:29		Entered into TrainingFilesValidation for training
+2021-12-17		22:20:29		Started Validating the columns length
+2021-12-17		22:20:29		Something went wrong in TrainingFiles Validation.The exception is [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:24:23		Entered into TrainingFilesValidation for training
+2021-12-17		22:24:23		Started Validating the columns length
+2021-12-17		22:24:23		Something went wrong in TrainingFiles Validation.The exception is [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:25:03		Entered into TrainingFilesValidation for training
+2021-12-17		22:25:03		Started Validating the columns length
+2021-12-17		22:25:03		Something went wrong in TrainingFiles Validation.The exception is [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:26:34		Entered into TrainingFilesValidation for training
+2021-12-17		22:26:34		Started Validating the columns length
+2021-12-17		22:26:34		Something went wrong in TrainingFiles Validation.The exception is [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:27:06		Entered into TrainingFilesValidation for training
+2021-12-17		22:27:06		Started Validating the columns length
+2021-12-17		22:27:06		Something went wrong in TrainingFiles Validation.The exception is [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:28:17		Entered into TrainingFilesValidation for training
+2021-12-17		22:28:17		Started Validating the columns length
+2021-12-17		22:29:34		Entered into TrainingFilesValidation for training
+2021-12-17		22:29:34		Started Validating the columns length
+2021-12-17		22:30:34		Entered into TrainingFilesValidation for training
+2021-12-17		22:30:34		Started Validating the columns length
+2021-12-17		22:31:13		Entered into TrainingFilesValidation for training
+2021-12-17		22:31:13		Started Validating the columns length

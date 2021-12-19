@@ -1,0 +1,136 @@
+2021-12-17		20:32:30		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		20:32:30		Good Data Folder Deleted Successfilly!
+2021-12-17		20:32:30		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:32:30		Successfully created Directory for good and bad data folder
+2021-12-17		20:32:30		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		20:32:30		File column length validation completed!!
+2021-12-17		20:35:16		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		20:35:16		Good Data Folder Deleted Successfilly!
+2021-12-17		20:35:16		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:35:16		Successfully created Directory for good and bad data folder
+2021-12-17		20:35:16		Invalid File!! File successfully moved to Bad Data Folder
+2021-12-17		20:35:16		File column length validation completed!!
+2021-12-17		20:35:16		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		20:35:16		File column length validation completed!!
+2021-12-17		20:43:44		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		20:43:44		Good Data Folder Deleted Successfilly!
+2021-12-17		20:43:44		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:43:44		Successfully created Directory for good and bad data folder
+2021-12-17		20:43:44		Invalid File!! File successfully moved to Bad Data Folder
+2021-12-17		20:43:44		File column length validation completed!!
+2021-12-17		20:43:44		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		20:43:44		File column length validation completed!!
+2021-12-17		20:44:32		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		20:44:32		Good Data Folder Deleted Successfilly!
+2021-12-17		20:44:32		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:44:32		Successfully created Directory for good and bad data folder
+2021-12-17		20:44:32		Invalid File!! File successfully moved to Bad Data Folder
+2021-12-17		20:44:32		File column length validation completed!!
+2021-12-17		20:44:32		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		20:44:32		File column length validation completed!!
+2021-12-17		20:44:32		Good Data Folder Deleted Successfilly!
+2021-12-17		20:44:32		Bad raw files successfully move to archive folder
+2021-12-17		20:44:32		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:46:37		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		20:46:37		Good Data Folder Deleted Successfilly!
+2021-12-17		20:46:37		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:46:37		Successfully created Directory for good and bad data folder
+2021-12-17		20:46:37		Invalid File!! File successfully moved to Bad Data Folder
+2021-12-17		20:46:37		File column length validation completed!!
+2021-12-17		20:46:37		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		20:46:37		File column length validation completed!!
+2021-12-17		20:46:37		Good Data Folder Deleted Successfilly!
+2021-12-17		20:46:37		Bad raw files successfully move to archive folder
+2021-12-17		20:46:37		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:49:13		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		20:49:13		Good Data Folder Deleted Successfilly!
+2021-12-17		20:49:13		Bad Data Folder Deleted Successfilly!
+2021-12-17		20:49:13		Successfully created Directory for good and bad data folder
+2021-12-17		20:49:13		Invalid File!! File successfully moved to Bad Data Folder
+2021-12-17		20:49:13		File column length validation completed!!
+2021-12-17		20:49:13		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		20:49:13		File column length validation completed!!
+2021-12-17		20:49:13		Good Data Folder Deleted Successfilly!
+2021-12-17		20:49:13		Bad raw files successfully move to archive folder
+2021-12-17		20:49:13		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:17:51		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:17:51		Good Data Folder Deleted Successfilly!
+2021-12-17		22:17:51		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:17:51		Successfully created Directory for good and bad data folder
+2021-12-17		22:17:51		Failed in validating column length 'utf-8' codec can't decode byte 0x83 in position 23: invalid start byte
+2021-12-17		22:17:51		Entered the merge_files_from_path method
+2021-12-17		22:17:51		files has bee merged successfully
+2021-12-17		22:20:29		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:20:29		Good Data Folder Deleted Successfilly!
+2021-12-17		22:20:29		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:20:29		Successfully created Directory for good and bad data folder
+2021-12-17		22:20:29		Invalid File!! File successfully moved to Bad Data Folder
+2021-12-17		22:20:29		File column length validation completed!!
+2021-12-17		22:20:29		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:20:29		File column length validation completed!!
+2021-12-17		22:20:29		Entered the merge_files_from_path method
+2021-12-17		22:20:29		Failed in merging files
+2021-12-17		22:24:23		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:24:23		Good Data Folder Deleted Successfilly!
+2021-12-17		22:24:23		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:24:23		Successfully created Directory for good and bad data folder
+2021-12-17		22:24:23		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:24:23		File column length validation completed!!
+2021-12-17		22:24:23		Entered the merge_files_from_path method
+2021-12-17		22:24:23		Failed in merging files
+2021-12-17		22:25:03		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:25:03		Good Data Folder Deleted Successfilly!
+2021-12-17		22:25:03		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:25:03		Successfully created Directory for good and bad data folder
+2021-12-17		22:25:03		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:25:03		File column length validation completed!!
+2021-12-17		22:25:03		Entered the merge_files_from_path method
+2021-12-17		22:25:03		Failed in merging files: [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:26:34		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:26:34		Good Data Folder Deleted Successfilly!
+2021-12-17		22:26:34		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:26:34		Successfully created Directory for good and bad data folder
+2021-12-17		22:26:34		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:26:34		File column length validation completed!!
+2021-12-17		22:26:34		Entered the merge_files_from_path method
+2021-12-17		22:26:34		Failed in merging files: [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:27:06		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:27:06		Good Data Folder Deleted Successfilly!
+2021-12-17		22:27:06		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:27:06		Successfully created Directory for good and bad data folder
+2021-12-17		22:27:06		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:27:06		File column length validation completed!!
+2021-12-17		22:27:06		Entered the merge_files_from_path method
+2021-12-17		22:27:06		Failed in merging files: [Errno 2] File b'train_data.csv' does not exist: b'train_data.csv'
+2021-12-17		22:28:17		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:28:17		Good Data Folder Deleted Successfilly!
+2021-12-17		22:28:17		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:28:17		Successfully created Directory for good and bad data folder
+2021-12-17		22:28:17		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:28:17		File column length validation completed!!
+2021-12-17		22:28:17		Entered the merge_files_from_path method
+2021-12-17		22:28:17		files has been merged successfully
+2021-12-17		22:29:34		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:29:34		Good Data Folder Deleted Successfilly!
+2021-12-17		22:29:34		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:29:34		Successfully created Directory for good and bad data folder
+2021-12-17		22:29:34		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:29:34		File column length validation completed!!
+2021-12-17		22:29:34		Entered the merge_files_from_path method
+2021-12-17		22:29:34		files has been merged successfully
+2021-12-17		22:30:34		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:30:34		Good Data Folder Deleted Successfilly!
+2021-12-17		22:30:34		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:30:34		Successfully created Directory for good and bad data folder
+2021-12-17		22:30:34		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:30:34		File column length validation completed!!
+2021-12-17		22:30:34		Entered the merge_files_from_path method
+2021-12-17		22:30:34		files has been merged successfully
+2021-12-17		22:31:13		Got the values from scehema JSON file.The number of columns are 14
+2021-12-17		22:31:13		Good Data Folder Deleted Successfilly!
+2021-12-17		22:31:13		Bad Data Folder Deleted Successfilly!
+2021-12-17		22:31:13		Successfully created Directory for good and bad data folder
+2021-12-17		22:31:13		Valid file Name!! File successfully moved to Good Data Folder
+2021-12-17		22:31:13		File column length validation completed!!
+2021-12-17		22:31:13		Entered the merge_files_from_path method
+2021-12-17		22:31:13		files has been merged successfully

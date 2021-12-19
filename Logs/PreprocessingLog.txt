@@ -1,0 +1,140 @@
+2021-12-18		09:20:55		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		09:20:55		Label Mapping of education feature is failed!! :map() missing 1 required positional argument: 'arg'
+2021-12-18		09:23:23		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		09:23:23		Label Mapping of education feature is completed!!
+2021-12-18		09:23:23		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		09:23:23		Label Mapping of gender feature is completed!!
+2021-12-18		09:23:23		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		09:23:23		Label Mapping of recruitment_channel feature is completed!!
+2021-12-18		09:23:23		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		09:23:23		remove_columns method of Preprocessor Class is completed!
+2021-12-18		09:23:23		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		09:23:23		remove_columns method of Preprocessor Class is completed!
+2021-12-18		09:23:23		Entered the one_hot_encoding method of Preprocessor Class!
+2021-12-18		09:23:23		)ne Hot Encoding of Preprocessor Class is completed!:The final cols isIndex(['education', 'gender', 'recruitment_channel', 'no_of_trainings', 'age',
+       'previous_year_rating', 'length_of_service', 'KPIs_met >80%',
+       'awards_won?', 'avg_training_score', 'is_promoted',
+       'department_Analytics', 'department_Finance', 'department_HR',
+       'department_Legal', 'department_Operations', 'department_Procurement',
+       'department_R&D', 'department_Sales & Marketing',
+       'department_Technology'],
+      dtype='object')
+2021-12-18		09:23:23		Entered the knn_imputer method of Preprocessor Class!
+2021-12-18		09:24:05		knn_imputer method of Preprocessor Class is completed!!!
+2021-12-18		09:24:05		Entered the seperate_features method of Preprocessor Class!
+2021-12-18		09:24:05		Entered the over_smapling method of Preprocessor Class!
+2021-12-18		09:26:09		over_smapling method of Preprocessor Class is completed
+2021-12-18		14:05:55		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:05:55		Label Mapping of education feature is completed!!
+2021-12-18		14:05:55		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:05:55		Label Mapping of gender feature is completed!!
+2021-12-18		14:05:55		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:05:55		Label Mapping of recruitment_channel feature is completed!!
+2021-12-18		14:05:55		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:05:55		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:05:55		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:05:55		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:05:55		Entered the one_hot_encoding method of Preprocessor Class!
+2021-12-18		14:05:55		)ne Hot Encoding of Preprocessor Class is completed!:The final cols isIndex(['education', 'gender', 'recruitment_channel', 'no_of_trainings', 'age',
+       'previous_year_rating', 'length_of_service', 'KPIs_met >80%',
+       'awards_won?', 'avg_training_score', 'is_promoted',
+       'department_Analytics', 'department_Finance', 'department_HR',
+       'department_Legal', 'department_Operations', 'department_Procurement',
+       'department_R&D', 'department_Sales & Marketing',
+       'department_Technology'],
+      dtype='object')
+2021-12-18		14:05:55		Entered the knn_imputer method of Preprocessor Class!
+2021-12-18		14:06:05		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:06:05		Label Mapping of education feature is completed!!
+2021-12-18		14:06:05		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:06:05		Label Mapping of gender feature is completed!!
+2021-12-18		14:06:05		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:06:05		Label Mapping of recruitment_channel feature is completed!!
+2021-12-18		14:06:05		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:06:05		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:06:05		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:06:05		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:06:05		Entered the one_hot_encoding method of Preprocessor Class!
+2021-12-18		14:06:05		)ne Hot Encoding of Preprocessor Class is completed!:The final cols isIndex(['education', 'gender', 'recruitment_channel', 'no_of_trainings', 'age',
+       'previous_year_rating', 'length_of_service', 'KPIs_met >80%',
+       'awards_won?', 'avg_training_score', 'is_promoted',
+       'department_Analytics', 'department_Finance', 'department_HR',
+       'department_Legal', 'department_Operations', 'department_Procurement',
+       'department_R&D', 'department_Sales & Marketing',
+       'department_Technology'],
+      dtype='object')
+2021-12-18		14:06:05		Entered the knn_imputer method of Preprocessor Class!
+2021-12-18		14:07:07		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:07:07		Label Mapping of education feature is completed!!
+2021-12-18		14:07:07		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:07:07		Label Mapping of gender feature is completed!!
+2021-12-18		14:07:07		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:07:07		Label Mapping of recruitment_channel feature is completed!!
+2021-12-18		14:07:07		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:07:07		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:07:07		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:07:07		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:07:07		Entered the one_hot_encoding method of Preprocessor Class!
+2021-12-18		14:07:07		)ne Hot Encoding of Preprocessor Class is completed!:The final cols isIndex(['education', 'gender', 'recruitment_channel', 'no_of_trainings', 'age',
+       'previous_year_rating', 'length_of_service', 'KPIs_met >80%',
+       'awards_won?', 'avg_training_score', 'is_promoted',
+       'department_Analytics', 'department_Finance', 'department_HR',
+       'department_Legal', 'department_Operations', 'department_Procurement',
+       'department_R&D', 'department_Sales & Marketing',
+       'department_Technology'],
+      dtype='object')
+2021-12-18		14:07:07		Entered the knn_imputer method of Preprocessor Class!
+2021-12-18		14:07:33		knn_imputer method of Preprocessor Class is completed!!!
+2021-12-18		14:07:33		Entered the seperate_features method of Preprocessor Class!
+2021-12-18		14:07:33		Entered the over_smapling method of Preprocessor Class!
+2021-12-18		14:09:41		over_smapling method of Preprocessor Class is completed
+2021-12-18		14:44:06		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:44:06		Label Mapping of education feature is completed!!
+2021-12-18		14:44:06		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:44:06		Label Mapping of gender feature is completed!!
+2021-12-18		14:44:06		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:44:06		Label Mapping of recruitment_channel feature is completed!!
+2021-12-18		14:44:06		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:44:06		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:44:06		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:44:06		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:44:06		Entered the one_hot_encoding method of Preprocessor Class!
+2021-12-18		14:44:06		)ne Hot Encoding of Preprocessor Class is completed!:The final cols isIndex(['education', 'gender', 'recruitment_channel', 'no_of_trainings', 'age',
+       'previous_year_rating', 'length_of_service', 'KPIs_met >80%',
+       'awards_won?', 'avg_training_score', 'is_promoted',
+       'department_Analytics', 'department_Finance', 'department_HR',
+       'department_Legal', 'department_Operations', 'department_Procurement',
+       'department_R&D', 'department_Sales & Marketing',
+       'department_Technology'],
+      dtype='object')
+2021-12-18		14:44:06		Entered the knn_imputer method of Preprocessor Class!
+2021-12-18		14:44:12		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:44:12		Label Mapping of education feature is completed!!
+2021-12-18		14:44:12		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:44:12		Label Mapping of gender feature is completed!!
+2021-12-18		14:44:12		Entered the label_encoding method of Preprocessor Class!
+2021-12-18		14:44:12		Label Mapping of recruitment_channel feature is completed!!
+2021-12-18		14:44:12		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:44:12		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:44:12		Entered the remove_columns method of Preprocessor Class!
+2021-12-18		14:44:12		remove_columns method of Preprocessor Class is completed!
+2021-12-18		14:44:12		Entered the one_hot_encoding method of Preprocessor Class!
+2021-12-18		14:44:12		)ne Hot Encoding of Preprocessor Class is completed!:The final cols isIndex(['education', 'gender', 'recruitment_channel', 'no_of_trainings', 'age',
+       'previous_year_rating', 'length_of_service', 'KPIs_met >80%',
+       'awards_won?', 'avg_training_score', 'is_promoted',
+       'department_Analytics', 'department_Finance', 'department_HR',
+       'department_Legal', 'department_Operations', 'department_Procurement',
+       'department_R&D', 'department_Sales & Marketing',
+       'department_Technology'],
+      dtype='object')
+2021-12-18		14:44:12		Entered the knn_imputer method of Preprocessor Class!
+2021-12-18		14:45:03		knn_imputer method of Preprocessor Class is completed!!!
+2021-12-18		14:45:03		Entered the change_dtype_to_int method of Preprocessor Class!
+2021-12-18		14:45:03		Entered the seperate_features method of Preprocessor Class!
+2021-12-18		14:45:03		Entered the over_smapling method of Preprocessor Class!
+2021-12-18		14:45:17		knn_imputer method of Preprocessor Class is completed!!!
+2021-12-18		14:45:18		Entered the change_dtype_to_int method of Preprocessor Class!
+2021-12-18		14:45:18		Entered the seperate_features method of Preprocessor Class!
+2021-12-18		14:45:18		Entered the over_smapling method of Preprocessor Class!
+2021-12-18		14:49:16		over_smapling method of Preprocessor Class is completed
+2021-12-18		14:49:24		over_smapling method of Preprocessor Class is completed

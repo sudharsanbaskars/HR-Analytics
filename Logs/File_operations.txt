@@ -1,0 +1,30 @@
+2021-12-18		09:34:40		Entered the save_model method of the File_Operation class
+2021-12-18		09:34:41		Model File xgboost.sav saved. Exited the save_model method of the Model_Finder class
+2021-12-18		14:18:04		Entered the save_model method of the File_Operation class
+2021-12-18		14:18:04		Model File xgboost.sav saved. Exited the save_model method of the Model_Finder class
+2021-12-18		15:00:44		Entered the save_model method of the File_Operation class
+2021-12-18		15:00:44		Model File random_forest.sav saved. Exited the save_model method of the Model_Finder class
+2021-12-18		21:37:23		Entered the load_model method of the File_Operation class
+2021-12-18		21:37:23		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'random_forest.sav'
+2021-12-18		21:39:55		Entered the load_model method of the File_Operation class
+2021-12-18		21:39:55		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		21:41:49		Entered the load_model method of the File_Operation class
+2021-12-18		21:41:49		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		21:43:46		Entered the load_model method of the File_Operation class
+2021-12-18		21:43:46		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		21:47:10		Entered the load_model method of the File_Operation class
+2021-12-18		21:47:10		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		21:48:29		Entered the load_model method of the File_Operation class
+2021-12-18		21:48:29		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		21:54:20		Entered the load_model method of the File_Operation class
+2021-12-18		21:54:20		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		21:54:36		Entered the load_model method of the File_Operation class
+2021-12-18		21:54:36		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		22:18:18		Entered the load_model method of the File_Operation class
+2021-12-18		22:18:18		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-18		22:18:29		Entered the load_model method of the File_Operation class
+2021-12-18		22:18:29		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-19		08:52:56		Entered the load_model method of the File_Operation class
+2021-12-19		08:52:56		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class
+2021-12-19		08:53:19		Entered the load_model method of the File_Operation class
+2021-12-19		08:53:19		Model File Models/random_forest.sav loaded. Exited the load_model method of the Model_Finder class

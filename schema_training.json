@@ -1,0 +1,19 @@
+{
+  "NumberofColumns" : 14,
+  "ColName": {
+    "employee_id": "Integer",
+    "department": "varchar",
+    "region": "varchar",
+    "education": "varchar",
+    "gender": "varchar",
+    "recruitment_channel": "varchar",
+    "no_of_trainings": "Integer",
+    "age": "Integer",
+    "previous_year_rating": "float",
+    "length_of_service": "Integer",
+    "KPIs_met >80%": "Integer",
+    "awards_won?": "Integer",
+    "avg_training_score": "Integer",
+    "is_promoted": "Integer"
+  }
+}

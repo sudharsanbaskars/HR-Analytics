@@ -1,0 +1,6 @@
+2021-12-17		20:32:30		Data Transformation failed because:: 'dBOperation' object has no attribute 'goodDataPath'
+2021-12-17		20:35:16		Data Transformation failed because:: [WinError 3] The system cannot find the path specified: 'Training_Raw_files_validated/Good_Raw'
+2021-12-17		20:43:44		Data Transformation failed because:: [WinError 3] The system cannot find the path specified: 'Training_ValidatedRawData/Good_Raw'
+2021-12-17		20:44:32		Data Transformation failed because:: 'Wafer'
+2021-12-17		20:46:37		 train_data.csv: File Transformed successfully!!
+2021-12-17		20:49:13		 train_data.csv: File Transformed successfully!!
